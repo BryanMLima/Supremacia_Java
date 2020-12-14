@@ -1,0 +1,23 @@
+################################################## Supremacia ##################################################
+################################################################################################################
+ 
+RELEASE NOTES 1.0
+
+Projeto desenvolvidor por:
+- Bryan Martins Lima
+- Rafael Ache Sales
+
+################################################## INSTRUÇÕES DE USO ###########################################
+################################################################################################################
+
+Para a instalação do software e uso deste, basta fazer o download do projeto, executar o
+arquivo supremacia.jar (necessário java 8 ou +) e para usar um servidor local rodar o jar servidor.jar
+
+Instruções do jogo se encontram no Apendice do Especificação de Requisitos.
+Na maior parte dos estágios é utlizado apenas a caixa do JOptionPane para fazer um movimento. Contudo, os estagios
+de mover tropas, atacar e construir tropas precisam que o botão "Encerrar Turno" seja pressionado.
+
+Essa é a primeira versão e, portanto, pode conter alguns bugs que não foram encontrados pelos projetistas, nessa
+primeira versão.
+
+Bom jogo!
